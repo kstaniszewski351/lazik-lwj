@@ -1,0 +1,7 @@
+[Unit]
+
+[Service]
+ExecStart=/home/lazik/code/lazik2/build/lazik
+
+[Install]
+WantedBy=default.target
