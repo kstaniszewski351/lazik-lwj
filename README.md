@@ -7,7 +7,7 @@ Repozytorium zawiera kod źródłowy, pliki CAD oraz dokumentację łazika
 Kod i jego dokumentacja znajduje się w folderze code/
 
 ## [CAD](cad/)
-Projekt został zrobiony w programie FreeCAD. Zmontowany łazik jest w pliku `Assembly.FCStd`. Jest tam projekt zawiasu, który nie został jeszcze wydrukowany na drukarce 3D i zmontowany.
+Projekt został zrobiony w programie FreeCAD. Zmontowany łazik jest w pliku `Assembly.FCStd`. Jest tam projekt zawiasu, który nie został jeszcze wydrukowany na drukarce 3D i zmontowany. Model zawiasu nie jest gotowy do wydruku, trzeba dodać offsety aby wszystko się mieściło.
 
  ![](images/cad.png)
 
