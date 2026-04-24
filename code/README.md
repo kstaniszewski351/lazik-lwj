@@ -1,7 +1,7 @@
 # Wymagania
 ## SDL3
 **Instalacja**:\
-`sudo apt install sdl3-devel`
+`sudo apt install libsdl3-dev`
 ## [Pigpio](https://github.com/joan2937/pigpio)
 **Instalacja**\
 Zainstaluj zależności:
