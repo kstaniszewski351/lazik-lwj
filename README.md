@@ -28,9 +28,14 @@ Poradnik jak sparować kontroler https://pimylifeup.com/raspberry-pi-playstation
 Na Raspberry Pi jest zainstalowany oficjalny Debian 13 Trixie. W folderze `~/code `znajduje się kod źrodłowy programu do sterowania i potrzebnych bibliotek. Port na kartę pamięci jest zepsuty więc trzeba korzystać z przejściówki na USB. Najprościej połączyć się jest przez SSH, ale najpierw trzeba podłączyć PI do innej sieci WIFI za pomocą monitora i klawiatury lub ethernet. Aby łatwo edytować i testować kod polecam użyć rozszerzenia Remote Development do Visual Studio Code.
 
 ## Stan techniczny
-Aktualnie bateria nie działa. Kamera równierz jest zepsuta, wcześniej była streamowana za pomocą [MediaMTX](https://github.com/bluenviron/mediamtx)
+Aktualnie bateria nie działa. Kamera również jest zepsuta, wcześniej była streamowana za pomocą [MediaMTX](https://github.com/bluenviron/mediamtx)
 
-## Zdjęcia
+## Co robić dalej
+* Uleprzyć konstrukcję strukturalną i estetyczną
+* Zamontować kamerę
+* Poprawić Okablowanie
+* Zamontować akumulator LiPo
+* Uleprzyć sposób montowania akumulatora## Zdjęcia
 ![](images/lazik2.jpg)
 ![](images/h_bridge.jpg)
 ![](images/switch.jpg)
